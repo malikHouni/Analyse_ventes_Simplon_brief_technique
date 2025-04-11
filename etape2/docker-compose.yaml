@@ -1,0 +1,15 @@
+
+services:
+  db:
+    image: nouchka/sqlite3  # image SQLite3
+    container_name: sqlite_simplon_db
+    volumes:
+      - ./data:/root/db  # pour stocker la base sqlite3
+
+  script:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: script_runner
+    depends_on:
+      - db
