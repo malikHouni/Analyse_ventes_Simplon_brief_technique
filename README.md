@@ -36,6 +36,15 @@ L’ensemble des opérations se fait automatiquement via `main.py` avec:
 - Ventes par produit (quantité et CA)
 - Ventes par ville
 - Résultats stockés dans la table `analyses`
+---
+## 📊 Visualisation, Dashboard Interactive avec Google Looker Studio
+
+Un Dashboard permet de visualiser les données de façon interactive :
+- CA total (metric)
+- Graphique de ventes par produit
+- Graphique de ventes par ville
+- Carte de la France avec les ventes par Villes
+- peut facilement être partagé et entretenu pour les analystes
 
 ---
 
