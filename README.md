@@ -39,7 +39,7 @@ L’ensemble des opérations se fait automatiquement via `main.py` avec:
 ---
 ## 📊 Visualisation, Dashboard Interactive avec Google Looker Studio
 
-Un Dashboard permet de visualiser les données de façon interactive :
+Un Dashboard permet de visualiser les données de façon interactive : [visit dashboard](https://lookerstudio.google.com/reporting/9c19ab2e-12a7-4d3e-8e1f-ccb79281aab0) 
 - CA total (metric)
 - Graphique de ventes par produit
 - Graphique de ventes par ville
