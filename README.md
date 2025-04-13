@@ -1,7 +1,8 @@
 # Analyse_ventes_Simplon_brief_technique
 Projet d'analyse de ventes pour le brief technique de Simplon.co
 
-![image](https://github.com/user-attachments/assets/1426a3a3-6147-49d4-aff4-6ff88c0d99cd)
+![image](https://github.com/user-attachments/assets/48622d08-e2e3-42cb-9eab-3fba32ddf04e)
+
 
 
 Ce projet consiste à construire un environnement complet d’analyse de données pour une PME, à l’aide de Docker, Python, SQLite, et en bonus une visualtion avec Streamlit.
